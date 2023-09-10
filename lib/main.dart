@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(appBar: AppBar(backgroundColor: Colors.amberAccent,),
-      body: Container(color: Colors.lightBlueAccent, child: Text("Hello! How are you doing? its my 3 App in flutter - Adil Talasbek")),)
+      body: Container(color: Colors.lightBlueAccent, child: Text("Karnakov Aisultan")),)
     );
   }
 }
